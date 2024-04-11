@@ -1,0 +1,46 @@
+Body{
+    margin:0;
+}
+
+
+
+
+
+
+#Baner {
+    color:rgb(255, 255, 255);
+    background-color:green;
+    width:100%;
+    height:150px;
+    font-size:larger;
+    text-align:center;
+    position:fixed;
+    margin-top:auto;
+}
+
+#menu1 {
+    background-color:red;
+    color:rgb(0, 0, 0);
+    width:50%;
+    height: 770px;
+    float:left;
+    margin-top:150px;
+
+}
+#menu2 {
+    color:red;
+    width:50%;
+    height:770px;
+    float:right;
+
+}
+#footer {
+    background-color:grey;
+    color:white;
+    width:100%;
+    height:200px;
+    text-align:center;
+    position:fixed;
+    bottom: 0;
+
+}
